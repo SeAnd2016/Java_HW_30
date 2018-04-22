@@ -1,0 +1,5 @@
+core/Input_CSV.class
+core/Input_Text_Scanner.class
+core/Input_PF_External.class
+core/Input_Text_FR.class
+core/Input_PF_Internal.class
